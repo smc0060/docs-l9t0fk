@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-mitkgr.nuansa138.site/sitemap.xml
